@@ -1,1 +1,2 @@
 "python is fun" 
+"haha python is pathetic" 
