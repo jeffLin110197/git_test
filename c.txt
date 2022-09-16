@@ -1,2 +1,1 @@
-"Hi Git" 
-"hello python" 
+"hello Lin" 
